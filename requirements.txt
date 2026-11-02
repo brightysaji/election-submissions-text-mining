@@ -1,0 +1,11 @@
+pdfplumber
+pytesseract
+nltk
+gensim
+pyLDAvis
+wordcloud
+scikit-learn
+pandas
+matplotlib
+numpy
+jupyter
